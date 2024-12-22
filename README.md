@@ -1,3 +1,6 @@
+
+![dataset-cover](https://github.com/user-attachments/assets/3f53d6bc-aeaa-4612-8857-81b7ce23beac)
+
 **Rock vs Mine Prediction**  
 This repository contains a project that uses supervised machine learning to predict whether sonar signals reflect off rocks or mines. The project is implemented in Python and employs a Logistic Regression, Random Forest and SVM models for comparison.
 
